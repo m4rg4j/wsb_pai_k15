@@ -1,0 +1,20 @@
+    1  git clone ^[[200~https://github.com/m4rg4j/wsb_pai_k15.git~
+    2  ls
+    3  cd wsb_pai_k15/
+    4  git clone https://github.com/m4rg4j/wsb_pai_k15.git
+    5  alias c=clear
+    6  ls
+    7  history
+    8  history > filehistory
+    9  git status
+   10  cd wsb_pai_k15
+   11  gitstatus
+   12  git status
+   13  git add *
+   14  git status
+   15  git commit
+   16  git config --global user.email "m4rg4j@gmail.com"
+   17  git config --global user.name "Aleksandra"
+   18  history > filehistory
+   19  history
+   20  history > filehistory
